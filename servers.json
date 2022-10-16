@@ -1,0 +1,57 @@
+[
+	{
+		"name": "Rede Force",
+		"ip": "redeforce.net",
+		"type": "PC"
+	},
+	{
+		"name": "Rede Stone",
+		"ip": "redestone.com",
+		"type": "PC"
+	},
+	{
+		"name": "Rede Screen",
+		"ip": "redescreen.com",
+		"type": "PC"
+	},
+	{
+		"name": "Rede Hocus",
+		"ip": "redehocus.com",
+		"type": "PC"
+	},
+	{
+		"name": "Rede Vanity",
+		"ip": "redevanity.com",
+		"type": "PC"
+	},
+	{
+		"name": "Rede Aspect",
+		"ip": "aspectmania.com.br",
+		"type": "PC"
+	},
+	{
+		"name": "Hylex",
+		"ip": "hylex.net",
+		"type": "PC"
+	},
+	{
+		"name": "MushMc",
+		"ip": "mush.com.br",
+		"type": "PC"
+	},
+	{
+		"name": "Rede Mystical",
+		"ip": "play.redemystical.com",
+		"type": "PC"
+	},
+	{
+		"name": "Rede Happy",
+		"ip": "jogarhappy.com",
+		"type": "PC"
+	},
+	{
+		"name": "Rede Vonix",
+		"ip": "jogar.redevonix.com",
+		"type": "PC"
+	}
+]
