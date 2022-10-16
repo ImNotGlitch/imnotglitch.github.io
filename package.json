@@ -49,6 +49,8 @@
     "parcel": "^2.0.0-beta.2"
   },
   "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "build": "eslint assets/js/*.js && parcel build assets/html/index.html --dist-dir dist",
     "dev": "parcel build assets/html/index.html --no-optimize --dist-dir dist"
   },
